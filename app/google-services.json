@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661362181038",
+    "firebase_url": "https://amigo-d902d.firebaseio.com",
+    "project_id": "amigo-d902d",
+    "storage_bucket": "amigo-d902d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661362181038:android:4b6dee22d5a6bb3a883e3f",
+        "android_client_info": {
+          "package_name": "com.ads671.amigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661362181038-nd2lrtivloaq13ddl37o7ncdmjmk0trd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ads671.amigo",
+            "certificate_hash": "db4d9ebe03008d2127f4a572de516a3de9c40dac"
+          }
+        },
+        {
+          "client_id": "661362181038-n6mtodfm7chnmn425jfukmi98vu661bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8f6GG-s_IFX1_N_Sf4KJKIpOp6RlpWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661362181038-n6mtodfm7chnmn425jfukmi98vu661bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
